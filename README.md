@@ -23,7 +23,7 @@ Developed by: Ajithkumar J
 RegisterNumber: 212225040015 
 */
 ```
-~~~
+~~~python
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
